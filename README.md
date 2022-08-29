@@ -1,1 +1,1 @@
-# react-mobx03
+### mobx mobx-react-lite 被observer 包裹的组件可以监听store的值并改变
